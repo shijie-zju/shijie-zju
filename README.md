@@ -1,20 +1,20 @@
 ## 🙋 Hi there!
 <div align="center">
 <p> </p>
+</div>
 
 ## 🔭研究方向
-#### 计算流体力学 
+### 计算流体力学 
 🌱 正在进行
 
-#### 教育大模型 
+### 教育大模型 
 🌱 正在进行
 - [Learning-summary](https://https://github.com/shijie-zju/langchain-web) langchain的初步尝试
 
-#### 网络求解微分方程 
+### 网络求解微分方程 
 🌱 正在进行
 
-## 🏋️ 学习项目 
-### ✅ 完成项目，日常更新
+## 🏋️ 学习项目 ✅ 完成项目，日常更新
 - [Learning-summary](https://https://github.com/shijie-zju/Learning-summary) 自学笔记总结，包含了数学、计算机等内容
 
 ---
