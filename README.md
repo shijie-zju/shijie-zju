@@ -1,7 +1,4 @@
 ## 🙋 Hi there!
-<div align="center">
-<p> </p>
-</div>
 
 ## 🔭 研究方向
 ### 计算流体力学 
