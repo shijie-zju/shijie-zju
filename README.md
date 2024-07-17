@@ -20,7 +20,7 @@
 
 ## 🏋️ 自学总结 
 - [Learning-summary](https://github.com/shijie-zju/Learning-summary)  自学笔记总结，包含了数学、计算机等基础内容✅
-
+- [Learning-for-work](https://github.com/shijie-zju/Learning-for-work) 为实习与工作而准备🤔
 ## 🤔 关注项目 
 - [dealii](/https://github.com/dealii/dealii)  最牛逼的有限元开源库
 - [nlp-tutorial](https://github.com/graykode/nlp-tutorial)  NLP从入门到放弃
