@@ -6,25 +6,18 @@
 
 💬 联系方式：1724926804@qq.com
 
+研究方向：大模型&网络求解微分方程&刚体振动
 
-## 🔭 研究方向
 状态：✅完成项目，定期更新 🌱正在进行，缓慢推进 ❌不再更新，放弃推进
-### 计算流体力学 🌱
-
-### 教育大模型 🌱
-- [langchain-web](https://github.com/shijie-zju/langchain-web)  langchain的初步尝试
-
-### 网络求解微分方程 🌱
-
-### 刚体振动 🌱
 
 ## 🏋️ 自学总结 
 - [Learning-summary](https://github.com/shijie-zju/Learning-summary)  自学笔记总结，包含了数学、计算机等基础内容✅
 - [Learning-for-work](https://github.com/shijie-zju/Learning-for-work) 为实习与工作而准备！包含数据结构与算法，ml，llm等领域🤔
-## 🤔 关注项目 
-- [dealii](/https://github.com/dealii/dealii)  最牛逼的有限元开源库
-- [nlp-tutorial](https://github.com/graykode/nlp-tutorial)  NLP从入门到放弃
-- [CleanTransformer](https://github.com/firechecking/CleanTransformer)  还没放弃NLP再试试这个
+- 
+## 🤔 尝试项目 
+- [easy-nanogpt]() 尝试从头搭建并训练一个chatgpt
+- [langchain-web](https://github.com/shijie-zju/langchain-web) 尝试用langchain辅助实现大模型的RAG技术
+- [retrieval-gpt]() 可检索的gpt
 
 ---
 <div align="center">
