@@ -15,9 +15,12 @@
 - [Learning-for-work](https://github.com/shijie-zju/Learning-for-work) 为实习与工作而准备！包含数据结构与算法，ml，llm等领域🤔
 
 ## 🤔 尝试项目 
-- [easy-nanogpt]() 尝试从头搭建并训练一个chatgpt(即将上传)
-- [langchain-web](https://github.com/shijie-zju/langchain-web) 尝试用langchain辅助实现大模型的RAG技术
-- [retrieval-gpt]() 可检索的gpt(即将上传)
+#### 大模型架构
+- [easy-nanogpt]() 尝试从头搭建并训练一个chatgpt
+#### 大模型应用
+- [langchain-rag]() 尝试用langchain辅助实现多步思考大模型的RAG技术
+- [langchain-web](https://github.com/shijie-zju/langchain-web) 利用streamlit搭建一个多角色多功能的LLM对话网页
+  
 
 ---
 <div align="center">
