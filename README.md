@@ -12,14 +12,14 @@
 
 ## 🏋️ 自学总结 
 - [Learning-summary](https://github.com/shijie-zju/Learning-summary)  自学笔记总结，包含了数学、计算机等基础内容✅
-- [Learning-for-work](https://github.com/shijie-zju/Learning-for-work) 为实习与工作而准备！包含数据结构与算法，ml，llm等领域🤔
+- [Learning-for-work](https://github.com/shijie-zju/Learning-for-work) 为实习与工作而准备！包含数据结构与算法，ml，llm等领域🌱
 
 ## 🤔 尝试项目 
 #### 大模型架构
-- [easy-nanogpt](https://github.com/shijie-zju/easy-nanogpt) 尝试从头搭建并训练一个chatgpt
+- [easy-nanogpt](https://github.com/shijie-zju/easy-nanogpt) 尝试从头搭建并训练一个chatgpt🌱
 #### 大模型应用
-- [langchain-rag](https://github.com/shijie-zju/langchain-rag) 尝试用langchain辅助实现多步思考大模型的RAG技术
-- [langchain-web](https://github.com/shijie-zju/langchain-web) 利用streamlit搭建一个多角色多功能的LLM对话网页
+- [langchain-rag](https://github.com/shijie-zju/langchain-rag) 尝试用langchain辅助实现多步思考大模型的RAG技术❌
+- [langchain-web](https://github.com/shijie-zju/langchain-web) 利用streamlit搭建一个多角色多功能的LLM对话网页🌱
   
 
 ---
