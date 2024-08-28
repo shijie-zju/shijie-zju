@@ -16,9 +16,9 @@
 
 ## 🤔 尝试项目 
 #### 大模型架构
-- [easy-nanogpt]() 尝试从头搭建并训练一个chatgpt
+- [easy-nanogpt](https://github.com/shijie-zju/easy-nanogpt) 尝试从头搭建并训练一个chatgpt
 #### 大模型应用
-- [langchain-rag]() 尝试用langchain辅助实现多步思考大模型的RAG技术
+- [langchain-rag](https://github.com/shijie-zju/langchain-rag) 尝试用langchain辅助实现多步思考大模型的RAG技术
 - [langchain-web](https://github.com/shijie-zju/langchain-web) 利用streamlit搭建一个多角色多功能的LLM对话网页
   
 
