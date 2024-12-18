@@ -17,13 +17,16 @@
 ## 🤔 尝试项目 
 #### 大模型架构
 - [easy-nanogpt](https://github.com/shijie-zju/easy-nanogpt) 尝试从头搭建并训练一个chatgpt🌱
-#### 大模型微调
-- [try-sft-llama3]()  正在边学边搞，会尽快上线的！💪
   
 #### 大模型应用
 - [langchain-rag](https://github.com/shijie-zju/langchain-rag) 尝试用langchain辅助实现多步思考大模型的RAG技术❌
 - [langchain-web](https://github.com/shijie-zju/langchin-web) 利用streamlit搭建一个多角色多功能的LLM对话网页🌱
   
+#### 大模型训练
+待实现
+
+#### 智能体应用
+待实现
 
 ---
 <div align="center">
