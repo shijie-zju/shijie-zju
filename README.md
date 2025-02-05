@@ -21,12 +21,9 @@
 #### 大模型应用
 - [langchain-rag](https://github.com/shijie-zju/langchain-rag) 尝试用langchain辅助实现多步思考大模型的RAG技术❌
 - [langchain-web](https://github.com/shijie-zju/langchin-web) 利用streamlit搭建一个多角色多功能的LLM对话网页🌱
-  
-#### 大模型训练
-待实现
 
 #### 智能体应用
-待实现
+推进中...
 
 ---
 <div align="center">
