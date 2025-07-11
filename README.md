@@ -2,7 +2,7 @@
 
 😄 GitHub主页记录了日常的学习和项目内容，欢迎大家交流讨论
 
-👯 学习经历：本科-信计专业； 研一-数据科学（当前）
+👯 学习经历：本科-信计专业； 研二-数据科学（当前）
 
 💬 联系方式：1724926804@qq.com
 
@@ -12,19 +12,18 @@
 
 ## 🏋️ 自学总结 
 - [Learning-summary](https://github.com/shijie-zju/Learning-summary)  自学笔记总结，包含了数学、计算机等基础内容✅
-- [Learning-for-work](https://github.com/shijie-zju/Learning-for-work) 为实习与工作而准备！包含数据结构与算法，ml，llm等领域🌱
+- [Learning-for-work](https://github.com/shijie-zju/Learning-for-work) 为实习与工作而准备！包含数据结构与算法，ml，llm等领域✅
 
 ## 🤔 尝试项目 
 #### 大模型架构
-- [easy-nanogpt](https://github.com/shijie-zju/easy-nanogpt) 尝试从头搭建并训练一个chatgpt🌱
+- [easy-nanogpt](https://github.com/shijie-zju/easy-nanogpt) 尝试从头搭建并训练一个chatgpt✅
   
 #### 大模型应用
-- [langchain-rag](https://github.com/shijie-zju/langchain-rag) 尝试用langchain辅助实现多步思考大模型的RAG技术❌
-- [langchain-web](https://github.com/shijie-zju/langchin-web) 利用streamlit搭建一个多角色多功能的LLM对话网页🌱
+- [langchain-web](https://github.com/shijie-zju/langchin-web) 利用streamlit搭建一个多角色多功能的LLM对话网页✅
 
 #### 智能体应用
-推进中...
-
+- 数字人 ❌未开源
+- LLM4Math 🌱
 ---
 <div align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=shijie-zju&title=Yuan%27s%20GitHub%20stats&theme=vue&show_icons=true" />
